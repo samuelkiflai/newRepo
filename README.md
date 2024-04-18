@@ -1,4 +1,4 @@
 # newRepo
 this is my Test repo
 
-add line fron dev 2
+add line from dev 2
